@@ -1,4 +1,4 @@
-# CIFAR-10 高精度图像分类项目文档
+# CIFAR-10 图像分类项目文档
 
 ## 1. 项目概述
 
@@ -543,4 +543,5 @@ SGD 的随机性提供了隐式正则化，有助于找到更平坦的极小值�
 - 使用更深的 WideResNet-40-10
 - 尝试 SAM (Sharpness-Aware Minimization) 优化器
 - 添加 AutoAugment 策略
+
 
